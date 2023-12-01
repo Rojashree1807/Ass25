@@ -1,0 +1,10 @@
+C:\Users\rojar\OneDrive\Documents\Mphasis\Ass25\MainApp\MainApp\bin\Debug\MainApp.exe.config
+C:\Users\rojar\OneDrive\Documents\Mphasis\Ass25\MainApp\MainApp\bin\Debug\MainApp.exe
+C:\Users\rojar\OneDrive\Documents\Mphasis\Ass25\MainApp\MainApp\bin\Debug\MainApp.pdb
+C:\Users\rojar\OneDrive\Documents\Mphasis\Ass25\MainApp\MainApp\bin\Debug\MySharedLibrary.dll
+C:\Users\rojar\OneDrive\Documents\Mphasis\Ass25\MainApp\MainApp\bin\Debug\MySharedLibrary.pdb
+C:\Users\rojar\OneDrive\Documents\Mphasis\Ass25\MainApp\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+C:\Users\rojar\OneDrive\Documents\Mphasis\Ass25\MainApp\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\rojar\OneDrive\Documents\Mphasis\Ass25\MainApp\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+C:\Users\rojar\OneDrive\Documents\Mphasis\Ass25\MainApp\MainApp\obj\Debug\MainApp.exe
+C:\Users\rojar\OneDrive\Documents\Mphasis\Ass25\MainApp\MainApp\obj\Debug\MainApp.pdb
